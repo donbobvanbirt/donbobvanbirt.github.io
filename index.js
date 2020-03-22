@@ -11,11 +11,8 @@ var Typer = {
       Typer.updLstChr();
     }, 500);
     $.get(Typer.file, function(data) {
-        console.log('data:', data)
       Typer.text = data;
       Typer.text = Typer.text.slice(0, Typer.text.length - 1);
-      console.log('Typer.text:', Typer.text)
-      console.log('Typer.file:', Typer.file)
     });
   },
 
