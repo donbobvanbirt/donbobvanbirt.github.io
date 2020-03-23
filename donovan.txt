@@ -13,7 +13,8 @@ email: <a href="mailto:contact@donovanmoore.io">contact@donovanmoore.io</a> <br 
 GitHub: <a target="_blank" href="https://github.com/donbobvanbirt">donbobvanbirt</a> <br />
 Twitter: <a target="_blank" href="https://twitter.com/donbobvanbirt">@donbobvanbirt</a> <br />
 Linkedin: <a target="_blank" href="https://www.linkedin.com/in/donbobvanbirt">linkedin.com/in/donbobvanbirt</a> <br />
-Home page: <a href="#">donovanmoore.io</a> <br /><br />
+Home page: <a href="#">donovanmoore.io</a> <br />
+TOR: <a href="http://d74nzx3uh2i3gsxhmo4fdctrulx33oup6vxvlkla52kmnbfutsv7ujid.onion/">d74nzx3uh2i3gsxhmo4fdctrulx33oup6vxvlkla52kmnbfutsv7ujid.onion</a> <br /><br />
 Thanks for stopping by! <br />
 
 <span class="username">donovan@moore</span>:<span class="tilda">~</span><span class="bang">$</span>
